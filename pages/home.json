@@ -1,0 +1,16 @@
+{
+    "hero" : {
+            "header" : "Drink Healthy <br> and Natural Coffee",
+            "subtext" : "At Obed's house of coffee, we only brew the freshest coffee you can find from anywhere in the world. We also serve pasteries such as cupcakes and brownies.",
+            "bg_image" : "/images/barista.jpg"
+        },
+        
+            "about" : {
+                "header" : "Welcome to Obed's Coffee House",
+                "subtext" : "Welcome to my House of Cof fee, hoping you'll enjoy yourself and as well give us a sincere feedback",
+                "bg_image" : "/images/barista-2.jpg",
+                "images" : [
+
+                ]
+            }
+}
